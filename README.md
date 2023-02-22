@@ -1,5 +1,5 @@
 ##  Signage Labeling
-Labeling of Stop (Dur) Sign and No Turn Left (Sola Dönülmez) Sign, using `LabelImg`. <br />
+Labeling of Stop (Dur) Sign and No Left Turn (Sola Dönülmez) Sign, using `LabelImg`. <br />
 PascalVOC dataset and yolo are used.
 
 ### Stop (Dur) Sign Example
