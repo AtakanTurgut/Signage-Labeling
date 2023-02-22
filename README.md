@@ -6,4 +6,4 @@ PascalVOC dataset and yolo are used.
 ![](/pictures/stop.PNG)
 
 ### Stop (Dur) and No Left Turn (Sola Dönülmez) Sign Example
-![](/pictures/stop_noTurnLeft.PNG)
+![](/pictures/stop_noLeftTurn.PNG)
