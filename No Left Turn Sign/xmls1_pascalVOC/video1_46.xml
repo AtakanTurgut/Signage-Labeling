@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>video1_46.png</filename>
+	<path>D:\labelimg\Otonom Araç\images\video1_46.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>105</ymin>
+			<xmax>303</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>174</ymin>
+			<xmax>305</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

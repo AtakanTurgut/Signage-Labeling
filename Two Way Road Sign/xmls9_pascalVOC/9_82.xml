@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>9_82.png</filename>
+	<path>D:\labelimg\video9\images\9_82.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oneway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>489</ymin>
+			<xmax>638</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>
