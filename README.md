@@ -9,7 +9,7 @@ PascalVOC dataset and yolo are used.
 ![](/pictures/stop_noLeftTurn.PNG)
 
 ### Traffic Light (Trafik Işığı) and No Right Turn (Sağa Dönülmez) Sign Example
-![](https://github.com/AtakanTurgut/Signage-Labeling/blob/main/No%20Right%20Turn%20Sign/images6__noRightTurn_trafficLight/6_10.png)
+![](/pictures/trafficLight_noRightTurn.PNG)
 
 ### No Entrance (Girişi Olmayan Yol) Sign Example
-![](https://github.com/AtakanTurgut/Signage-Labeling/blob/main/No%20Entrance%20Sign/images4_noEntrance/4_90.png)
+![](/pictures/noEntrance.PNG)
