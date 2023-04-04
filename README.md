@@ -1,5 +1,5 @@
 ##  Signage Labeling
-A few traffic signs labeled for use in autonomous vehicles., using `LabelImg`. <br />
+A few traffic signs labeled for use in autonomous vehicles, using `LabelImg`. <br />
 PascalVOC dataset and yolo are used.
 
 ### Stop (Dur) Sign Example
