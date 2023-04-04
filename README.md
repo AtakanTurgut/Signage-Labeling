@@ -25,4 +25,4 @@ PascalVOC dataset and yolo are used.
 ![](/pictures/twoWayRoad.PNG)
 
 ### Pedestrian Crossing Sign
-![](/pictures/pedestrianCrossing.PNG)
+![](/pictures/pedestrianCrossing.PNG)  
