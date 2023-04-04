@@ -1,5 +1,5 @@
 ##  Signage Labeling
-Labeling of Stop (Dur) Sign and No Left Turn (Sola Dönülmez) Sign, using `LabelImg`. <br />
+A few traffic signs labeled for use in autonomous vehicles., using `LabelImg`. <br />
 PascalVOC dataset and yolo are used.
 
 ### Stop (Dur) Sign Example
@@ -23,6 +23,9 @@ PascalVOC dataset and yolo are used.
 
 ### Parking (Park) Sign Example
 ![](/pictures/parking.PNG)
+
+### Forward Mandatory Direction (İleri Mecburi Yön Levhası) Sign Example
+![](/pictures/forward.PNG)
 
 ### Two Way Road (İki Yönlü Tek Şerit) Sign Example
 ![](/pictures/twoWayRoad.PNG)

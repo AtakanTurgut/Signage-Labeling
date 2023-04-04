@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images12_forwardMandatoryDirection</folder>
+	<filename>video12_278.png</filename>
+	<path>D:\labelimg\labelimg_labeling\Forward Mandatory Direction Sign\images12_forwardMandatoryDirection\video12_278.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>848</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>92</ymin>
+			<xmax>500</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
