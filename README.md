@@ -23,3 +23,6 @@ PascalVOC dataset and yolo are used.
 
 ### Two Way Road (İki Yönlü Tek Şerit) Sign Example
 ![](/pictures/twoWayRoad.PNG)
+
+### Pedestrian Crossing Sign
+![](/pictures/pedestrianCrossing.PNG)
