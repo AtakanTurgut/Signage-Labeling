@@ -18,11 +18,12 @@ PascalVOC dataset and yolo are used.
 ### No Entrance (Girişi Olmayan Yol) Sign Example
 ![](/pictures/noEntrance.PNG)
 
+### Pedestrian Crossing Sign
+![](/pictures/pedestrianCrossing.PNG) 
+
 ### Parking (Park) Sign Example
 ![](/pictures/parking.PNG)
 
 ### Two Way Road (İki Yönlü Tek Şerit) Sign Example
 ![](/pictures/twoWayRoad.PNG)
-
-### Pedestrian Crossing Sign
-![](/pictures/pedestrianCrossing.PNG)  
+ 
