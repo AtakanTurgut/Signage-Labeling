@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images3__trafficLight</folder>
+	<filename>video3_288.png</filename>
+	<path>D:\labelimg\labelimg_labeling\Traffic Light\images3__trafficLight\video3_288.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>848</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficLight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>47</ymin>
+			<xmax>589</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trafficLight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>265</ymin>
+			<xmax>275</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

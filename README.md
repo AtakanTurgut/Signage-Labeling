@@ -5,11 +5,14 @@ PascalVOC dataset and yolo are used.
 ### Stop (Dur) Sign Example
 ![](/pictures/stop.PNG)
 
+### Traffic Light (Trafik Işığı) Sign Example
+![](/pictures/trafficLight.PNG)
+
 ### No Left Turn (Sola Dönülmez) Sign Example
 ![](/pictures/stop_noLeftTurn.PNG)
 ![](/pictures/noLeft.PNG)
 
-### Traffic Light (Trafik Işığı) and No Right Turn (Sağa Dönülmez) Sign Example
+### No Right Turn (Sağa Dönülmez) Sign Example
 ![](/pictures/trafficLight_noRightTurn.PNG)
 
 ### No Entrance (Girişi Olmayan Yol) Sign Example
