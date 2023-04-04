@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images14_noParkingSign</folder>
+	<filename>video14_0.png</filename>
+	<path>D:\labelimg\labelimg_labeling\No Parking Sign\images14_noParkingSign\video14_0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>848</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noparking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>113</ymin>
+			<xmax>498</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

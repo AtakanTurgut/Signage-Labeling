@@ -18,6 +18,9 @@ PascalVOC dataset and yolo are used.
 ### No Entrance (Girişi Olmayan Yol) Sign Example
 ![](/pictures/noEntrance.PNG)
 
+### No Parking (Park Yapılmaz) Sign Example
+![](/pictures/noparking.PNG)
+ 
 ### Pedestrian Crossing Sign
 ![](/pictures/pedestrianCrossing.PNG) 
 
