@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images15_forwardandLeftMandatoryDirection</folder>
+	<filename>video15_252.png</filename>
+	<path>D:\labelimg\labelimg_labeling\Forward and Left Mandatory Direction Sign\images15_forwardandLeftMandatoryDirection\video15_252.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>848</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forwardAndLeft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>120</ymin>
+			<xmax>564</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

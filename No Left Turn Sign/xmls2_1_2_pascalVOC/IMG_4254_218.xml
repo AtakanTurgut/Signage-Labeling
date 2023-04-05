@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_4254_218.png</filename>
+	<path>D:\Otonom Araç\soladönülzem\images\IMG_4254_218.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>848</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noTurnLeft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>130</ymin>
+			<xmax>510</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
